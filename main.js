@@ -1,11 +1,11 @@
 //base by Chadro
 //re-upload? recode? copy code? give credit ya :)
 //YouTube: @techgod143
-//Instagram: Chadro🕷🕸🖤
-//Telegram: t.me/techgod143
-//GitHub: @Chadro25
+//Instagram: Chadro young
+//Telegram: t.me/Chadro🕷🕸
+//GitHub: @Chadro14
 //WhatsApp: +243905526836
-//want more free bot scripts? subscribe to my youtube channel: 
+//want more free bot scripts? subscribe to my youtube channel: Altese Chadro
 
 require('./settings')
 const pino = require('pino')
@@ -82,7 +82,7 @@ const {  state, saveCreds } =await useMultiFileAuthState(`./session`)
             process.exit(0)
          }
       } else {
-         phoneNumber = await question(chalk.bgBlack(chalk.greenBright(`Please type your WhatsApp number 😍\nFor example: +916909137213 : `)))
+         phoneNumber = await question(chalk.bgBlack(chalk.greenBright(`Please type your WhatsApp number 😍\nFor example: +243905626836 : `)))
          phoneNumber = phoneNumber.replace(/[^0-9]/g, '')
 
          // Ask again when entering the wrong number

@@ -1,10 +1,10 @@
-//base by Tech-God
+//base by Chadro
 //re-upload? recode? copy code? give credit ya :)
-//YouTube: @techgod143
-//Instagram: techgod143
-//Telegram: t.me/techgod143
-//GitHub: @techgod143
-//WhatsApp: +917466008456
+//YouTube: @AltesseChadro
+//Instagram: Chadro young
+//Telegram: t.me/Chadro🕷🕸
+//GitHub: @Chadro14 
+//WhatsApp: +243905526836
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@techgod143
 
 const fs = require('fs')

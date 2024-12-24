@@ -1,3 +1,3 @@
 {
-	"name": "Alien-v44 Bot Multi Device "
+	"name": "Alien-V44 Bot Multi Device "
 }

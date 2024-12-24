@@ -3,7 +3,7 @@
 //YouTube: @
 //Instagram: Chadroyoung
 //Telegram: t.me/Chadro🕷🕸🖤
-//GitHub: @Chadro25
+//GitHub: @Chadto14
 //WhatsApp: +243905526836
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@techgod143
 const fs = require('fs')
@@ -13,7 +13,7 @@ const chalk = require('chalk')
 global.ownernomer = "910000000000"
 global.ownername = "Chadro🕷🕸🖤"
 global.ytname = "YT: Chadro"
-global.socialm = "GitHub: Chadro25"
+global.socialm = "GitHub: Chadro14"
 global.location = "Rdcongo, up, kinshasa"
 
 global.ownernumber = '243905526836'  //creator number
@@ -26,7 +26,7 @@ global.author = 'Chadro\n\nContact: +243905526836'
 
 //console view/theme
 global.themeemoji = '🪀'
-global.wm = "Youtube Chadro young."
+global.wm = "Youtube Altesse Chadro."
 
 //theme link
 global.link = 'https://whatsapp.com/channel/0029VayWfvF17Emnix7wdR3X'
